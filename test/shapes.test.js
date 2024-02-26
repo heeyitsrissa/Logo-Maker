@@ -1,14 +1,14 @@
-const { Shapes } = require('/Users/marissapratt/bootcamp/homework/Logo-Maker/lib/shapes.js');
+const Shapes  = require('../lib/shapes.js');
 
-describe('shapes', ()=> {
+describe('Shapes', ()=> {
     test(`It should throw and error if render method is not implemented.`, () => {
-        const shape = new Shapes();
-        expect(()=> shape.render()).toThrowError('Method not Implemented');
+        const shapes = new Shapes();
+        expect(() => shapes.render()).toThrowError('Method not Implemented');
     });
     test('it should set correct color', () => {
-        const shape = new Shapes();
-        shape.setColor('red');
-        expect(shape.color).toBe('red');
+        const shapes = new Shapes();
+        shapes.setColor('red');
+        expect(shapes.color).toBe('red');
     })
 
 });
