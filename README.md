@@ -12,9 +12,10 @@ When the user runs the index.js file they are presented with with questions abou
 link to video walk through:
 https://drive.google.com/file/d/1eVEJzAzr5zm7NigXEoTR1YYnIwCWsBjK/view?usp=sharing
 
-(<Screenshot 2024-02-28 at 9.07.52 PM.png>)
+![alt text](<images/Screenshot 2024-02-28 at 9.07.07 PM.png>)
 
-(<images/Screenshot 2024-02-28 at 9.07.07 PM.png>)
+![alt text](<images/Screenshot 2024-02-28 at 9.07.52 PM.png>)
+
 
 ## License 
 
