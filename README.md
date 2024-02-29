@@ -9,6 +9,8 @@ To start this project I did the easiest part first, which was coding the index.j
 ## Usage
 When the user runs the index.js file they are presented with with questions about their logo including the text which can be up to three characters long, if the test is longer an alert will show in terminal telling the user there can only be 3 characters used. Users  will be asked the text color, as well as a list of ther available shapes that can be used in the logo and the color of those shapes. Once all information is retrieved from the users the logo.svg and index.html will be created. 
 
+link to video walk through:
+https://drive.google.com/file/d/1eVEJzAzr5zm7NigXEoTR1YYnIwCWsBjK/view?usp=sharing
 
 (<Screenshot 2024-02-28 at 9.07.52 PM.png>)
 
